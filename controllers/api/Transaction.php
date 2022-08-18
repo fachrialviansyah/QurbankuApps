@@ -110,7 +110,7 @@ class Transaction extends Auth
                 'smtp_host' => 'ssl://smtp.googlemail.com',
                 'smtp_port' => 465,
                 'smtp_user' => 'qurbankuapps@gmail.com', //alamat email gmail
-                'smtp_pass' => 'qurbankuskripsi', //password email 
+                'smtp_pass' => '**********', //password email 
                 'mailtype' => 'html',
                 'charset' => 'iso-8859-1',
                 'wordwrap' => TRUE
